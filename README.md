@@ -12,3 +12,5 @@ The notebook predicts the employee turnover in a variaty of Decision Tree algori
 For all of the above the notebooks tests dififferent hyperparameters (maximal depth, learning rate, etc.). It also presents various accuracy metric (f1, recall, etc.). 
 
 Finally, the feature significance histograms are reported for each of steps. 
+
+**Please save the Kaggle API credentials at the right location (*~/.kaggle/kaggle.json* on Linux).**
